@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "yearFounded": 1970,
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "createdAt": "2026-05-23T14:02:31.480Z",
+    "updatedAt": "2026-05-23T14:02:31.480Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:31.809Z",
+    "updatedAt": "2026-05-23T14:02:31.809Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "createdAt": "2026-05-23T14:02:32.212Z",
+    "updatedAt": "2026-05-23T14:02:32.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:32.519Z",
+    "updatedAt": "2026-05-23T14:02:32.519Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "yearFounded": 1980,
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:32.826Z",
+    "updatedAt": "2026-05-23T14:02:32.826Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:33.135Z",
+    "updatedAt": "2026-05-23T14:02:33.135Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:33.396Z",
+    "updatedAt": "2026-05-23T14:02:33.396Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "headquarters": "DuBuqueburgh",
+    "numberOfLocations": 9200,
+    "createdAt": "2026-05-23T14:02:33.648Z",
+    "updatedAt": "2026-05-23T14:02:33.648Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "brandName": "Licensed Concrete Tuna",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:33.953Z",
+    "updatedAt": "2026-05-23T14:02:33.953Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:34.338Z",
+    "updatedAt": "2026-05-23T14:02:34.338Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37a6c889252c4ae9be8",
+    "brandName": "Rogahn - Bernier-Reinger",
+    "yearFounded": 1600,
+    "headquarters": "South Jerad",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:34.704Z",
+    "updatedAt": "2026-05-23T14:02:34.704Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37b6c889252c4ae9be9",
+    "brandName": "Gislason, Borer and Conn",
+    "yearFounded": 2026,
+    "headquarters": "Geraldineland",
+    "numberOfLocations": 35,
+    "createdAt": "2026-05-23T14:02:35.085Z",
+    "updatedAt": "2026-05-23T14:02:35.085Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37b6c889252c4ae9bea",
+    "brandName": "Mann, Labadie and Will",
+    "yearFounded": 1653,
+    "headquarters": "Palm Springs",
+    "numberOfLocations": 10000,
+    "createdAt": "2026-05-23T14:02:35.372Z",
+    "updatedAt": "2026-05-23T14:02:35.372Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37b6c889252c4ae9beb",
+    "brandName": "Roob - Haag",
+    "yearFounded": 2013,
+    "headquarters": "Ernserstead",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-23T14:02:35.730Z",
+    "updatedAt": "2026-05-23T14:02:35.730Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37c6c889252c4ae9bec",
+    "brandName": "Aufderhar-Rutherford - Predovic",
+    "yearFounded": 1850,
+    "headquarters": "North Gunnarville",
+    "numberOfLocations": 90,
+    "createdAt": "2026-05-23T14:02:36.104Z",
+    "updatedAt": "2026-05-23T14:02:36.104Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37c6c889252c4ae9bed",
+    "brandName": "Romaguera Group",
+    "yearFounded": 1997,
+    "headquarters": "Port Pink",
+    "numberOfLocations": 250,
+    "createdAt": "2026-05-23T14:02:36.412Z",
+    "updatedAt": "2026-05-23T14:02:36.412Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37c6c889252c4ae9bee",
+    "brandName": "Thiel, MacGyver and Lowe",
+    "yearFounded": 1856,
+    "headquarters": "Hackensack",
+    "numberOfLocations": 5000,
+    "createdAt": "2026-05-23T14:02:36.677Z",
+    "updatedAt": "2026-05-23T14:02:36.677Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37d6c889252c4ae9bef",
+    "brandName": "Vandervort, Barrows and Runte",
+    "yearFounded": 1601,
+    "headquarters": "Labadiestad",
+    "numberOfLocations": 2,
+    "createdAt": "2026-05-23T14:02:37.026Z",
+    "updatedAt": "2026-05-23T14:02:37.026Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37d6c889252c4ae9bf0",
+    "brandName": "Ankunding Group",
+    "yearFounded": 1975,
+    "headquarters": "Lake Matteo",
+    "numberOfLocations": 500,
+    "createdAt": "2026-05-23T14:02:37.343Z",
+    "updatedAt": "2026-05-23T14:02:37.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a11b37d6c889252c4ae9bf1",
+    "brandName": "Dietrich and Sons",
+    "yearFounded": 1634,
+    "headquarters": "Auerboro",
+    "numberOfLocations": 9260,
+    "createdAt": "2026-05-23T14:02:37.737Z",
+    "updatedAt": "2026-05-23T14:02:37.737Z",
+    "__v": 0
+  }
+]
